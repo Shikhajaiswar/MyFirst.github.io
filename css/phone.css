@@ -41,6 +41,10 @@ section::before{
     padding-right: 0px;
 }
 
+.nav-bar li a:hover{
+    background-color: #04aa6d;
+    border-radius: 20px;
+}
 
 .logo{
     padding: 3px 8px;
