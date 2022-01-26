@@ -77,10 +77,10 @@ section::before{
   
 }
 
-.nav-bar li a:hover{
+/* .nav-bar li a:hover{
     background-color: #04aa6d;
     border-radius: 20px;
-}
+} */
 
 .links .current{
     background-color: #04aa6d;
