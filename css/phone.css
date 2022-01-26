@@ -136,16 +136,16 @@ section::before{
     background-color: white;
     /* border: 2px solid black; */
     /* border-radius: 10px; */
-    width: 355px;
-    height: 26px;
+    width: 330px;
+    height: 21px;
 
 }
-.webdev{width: 40%; background-color: #04AA6D; height: 26px; color: white ;font-size: 26px;}
-.DSA{width: 35%; background-color: #2196F3; height: 26px; color: white ;font-size: 26px;}
-.cpp{width: 90%; background-color: #ef643f; height: 26px; color: white ;font-size: 26px;}
-.py{width: 25%; background-color: #9c61f1; height: 26px; color: white ;font-size: 26px;}
-.block{width:35%; background-color: #fbd415; height: 26px; color: white ;font-size: 26px;}
-.str{width: 75%; background-color: #5b59ef; height: 26px; color: white ;font-size: 26px;}
+.webdev{width: 40%; background-color: #04AA6D; height: 20px; color: white ;font-size: 20px;}
+.DSA{width: 35%; background-color: #2196F3; height: 20px; color: white ;font-size: 20px;}
+.cpp{width: 90%; background-color: #ef643f; height: 20px; color: white ;font-size: 20px;}
+.py{width: 25%; background-color: #9c61f1; height: 20px; color: white ;font-size: 20px;}
+.block{width:35%; background-color: #fbd415; height: 20px; color: white ;font-size: 20px;}
+.str{width: 75%; background-color: #5b59ef; height: 20px; color: white ;font-size: 20px;}
 
 .skils p{
     font-size: 25px;
