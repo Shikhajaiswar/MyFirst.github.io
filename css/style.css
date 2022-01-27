@@ -49,6 +49,8 @@ section::before{
     width: 100%;
 }
 
+
+
 .links{
     padding-left: 60px;
     padding-right: 30px;
@@ -57,7 +59,7 @@ section::before{
 }
 
 .nav-bar li a{
-    padding: 13px 30px;
+    padding: 13px 17px;
    
 }
 .nav-bar li {
@@ -150,6 +152,7 @@ section::before{
 .content img{
     /* border: 2px solid rgb(54 54 54 / 75%);; */
     border-radius: 300px;
+    width: 450px;
     margin: 20px;
     box-shadow: -1px 0.7px 45.2px 18.9px #a9a9a9;
 }
@@ -233,10 +236,10 @@ section::before{
 
 .webdev{width: 40%; background-color: #04AA6D; height: 26px; color: white ; font-size: 26px;}
 .DSA{width: 35%; background-color: #2196F3; height: 26px; color: white ; font-size: 26px;}
-.cpp{width: 90%; background-color: #ef643f; height: 26px; color: white ; font-size: 26px;}
+.cpp{width: 70%; background-color: #ef643f; height: 26px; color: white ; font-size: 26px;}
 .py{width: 25%; background-color: #9c61f1; height: 26px; color: white ; font-size: 26px;}
 .block{width:35%; background-color: #fbd415; height: 26px; color: white ; font-size: 26px;}
-.str{width: 75%; background-color: #5b59ef; height: 26px; color: white ; font-size: 26px;}
+.str{width: 40%; background-color: #5b59ef; height: 26px; color: white ; font-size: 26px;}
 
 
 
