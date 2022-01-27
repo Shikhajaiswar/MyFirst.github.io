@@ -88,7 +88,9 @@ section::before{
     background-color: #04aa6d;
     border-radius: 20px;
 }
-
+.hello{
+    font-size: 60px;
+}
 .name{
     padding-left: 580px;
     /* padding: 10px 20px; */
@@ -152,7 +154,7 @@ section::before{
 .content img{
     /* border: 2px solid rgb(54 54 54 / 75%);; */
     border-radius: 300px;
-    width: 450px;
+    /* width: 450px; */
     margin: 20px;
     box-shadow: -1px 0.7px 45.2px 18.9px #a9a9a9;
 }
