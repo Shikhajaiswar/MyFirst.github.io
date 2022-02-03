@@ -11,3 +11,6 @@ burgur.addEventListener('click',()=>{
     navbar.classList.toggle('h-class-resp');
 
 })
+
+
+
