@@ -114,7 +114,7 @@ section::before{
 } */
 .hobby h1 {
     padding: 0px 0px;
-    width: 90px;
+    width: 144.9px;
 }
 
 
@@ -133,7 +133,7 @@ section::before{
 
 /* my skills */
 .container{
-    background-color: white;
+    background-color: #64606026;
     /* border: 2px solid black; */
     /* border-radius: 10px; */
     width: 330px;
