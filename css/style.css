@@ -179,6 +179,10 @@ section::before{
     justify-content: center;
     align-items: center;
 }
+
+.hobby h1{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
 .img-hob{
    width: 200px;
 }

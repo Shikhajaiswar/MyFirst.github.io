@@ -69,6 +69,7 @@ section::before{
 .hobby h1 {
     padding: 25px 30px;
     width: 90px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .hobbycontainer {
